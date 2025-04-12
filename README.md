@@ -1,6 +1,6 @@
 # Mi-Primer-Repositorio
 
-##TP Nº3 ACLARACIONESSS
+## TP Nº3 ACLARACIONESSS
 
 <div style="text-align: center;">
   <img src="https://i.pinimg.com/736x/13/22/94/132294601f59dd1c9243d59a9afcef15.jpg" width="200">
